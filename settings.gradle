@@ -1,0 +1,2 @@
+rootProject.name = "TrendyMoviesAsifMVVM"
+include ':app'
